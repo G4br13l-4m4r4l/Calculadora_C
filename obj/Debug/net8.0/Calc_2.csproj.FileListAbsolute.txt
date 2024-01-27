@@ -1,0 +1,14 @@
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\bin\Debug\net8.0\Calc_2.exe
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\bin\Debug\net8.0\Calc_2.deps.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\bin\Debug\net8.0\Calc_2.runtimeconfig.json
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\bin\Debug\net8.0\Calc_2.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\bin\Debug\net8.0\Calc_2.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\obj\Debug\net8.0\Calc_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\obj\Debug\net8.0\Calc_2.AssemblyInfoInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\obj\Debug\net8.0\Calc_2.AssemblyInfo.cs
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\obj\Debug\net8.0\Calc_2.csproj.CoreCompileInputs.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\obj\Debug\net8.0\Calc_2.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\obj\Debug\net8.0\refint\Calc_2.dll
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\obj\Debug\net8.0\Calc_2.pdb
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\obj\Debug\net8.0\Calc_2.genruntimeconfig.cache
+C:\Users\L4g_1n\Documents\C#\first_steps\Calc_2\obj\Debug\net8.0\ref\Calc_2.dll
